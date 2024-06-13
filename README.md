@@ -18,7 +18,7 @@
 - pip install googletrans==4.0.0-rc1 필요
 - korList.txt 파일을 이용하여 파이썬 translate.py을 통해 번역한 후 vocabularyBook.txt 파일에 저장
 
-## 4.replaceFile.js (만드는 중)
+## 4.replaceFile.js
 - kor.txt 파일과 vocabulary.txt 파일을 이용하여 ToTransLate 폴더내의 한글들을 번역
 
 ## 기타
