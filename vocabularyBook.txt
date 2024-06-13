@@ -1,0 +1,10 @@
+감사합니다|thank_you
+사용자|user
+안녕하세요|hello
+안녕하세용|Hello
+안녕히가세요|goodbye
+어서오세요|welcome
+테스트|test
+테스트 입니다|Test
+테스트입니다|Test
+환영합니다|welcome

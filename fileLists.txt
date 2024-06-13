@@ -1,0 +1,2 @@
+C:\Users\heogw\Documents\NodeJSWorkSpace\Localization\ToTransLate\Test_01.js
+C:\Users\heogw\Documents\NodeJSWorkSpace\Localization\ToTransLate\Test_02.jsx

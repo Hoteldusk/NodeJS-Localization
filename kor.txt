@@ -1,0 +1,11 @@
+테스트 입니다|C:\Users\heogw\Documents\NodeJSWorkSpace\Localization\ToTransLate\Test_01.js|1
+안녕하세요|C:\Users\heogw\Documents\NodeJSWorkSpace\Localization\ToTransLate\Test_01.js|4
+테스트|C:\Users\heogw\Documents\NodeJSWorkSpace\Localization\ToTransLate\Test_01.js|7
+어서오세요|C:\Users\heogw\Documents\NodeJSWorkSpace\Localization\ToTransLate\Test_01.js|11
+안녕히가세요|C:\Users\heogw\Documents\NodeJSWorkSpace\Localization\ToTransLate\Test_01.js|12
+감사합니다|C:\Users\heogw\Documents\NodeJSWorkSpace\Localization\ToTransLate\Test_01.js|13
+안녕하세용|C:\Users\heogw\Documents\NodeJSWorkSpace\Localization\ToTransLate\Test_02.jsx|6
+테스트입니다|C:\Users\heogw\Documents\NodeJSWorkSpace\Localization\ToTransLate\Test_02.jsx|7
+환영합니다|C:\Users\heogw\Documents\NodeJSWorkSpace\Localization\ToTransLate\Test_02.jsx|15
+어서오세요|C:\Users\heogw\Documents\NodeJSWorkSpace\Localization\ToTransLate\Test_02.jsx|16
+사용자|C:\Users\heogw\Documents\NodeJSWorkSpace\Localization\ToTransLate\Test_02.jsx|25
